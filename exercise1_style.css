@@ -1,12 +1,12 @@
 #testDiv1 {
-  width: 33.3%;
+  width: 30%;
   padding: 15px;
   margin: 2px;
   box-sizing: border-box;
   float: right;
 }
 #testDiv2 {
-  width: 33.3%;
+  width: 30%;
   padding: 15px;
   margin: 2px;
   box-sizing: border-box;
@@ -19,7 +19,7 @@
 }
 
 #testDiv3{
-  width:33.3%;
+  width:30%;
   padding:15px;
   margin:2px;
   box-sizing: border-box;

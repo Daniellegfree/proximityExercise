@@ -1,0 +1,20 @@
+1.  testDiv1 is 350
+    testDiv2 is 350
+
+2.  They both changed to a size  little over 310
+
+3.  Both divs moved to the right and are now next to each other. They are between 570 and 1200
+
+4.  Now the divs are side by side on the left side. Between 1 and 640
+
+5.  They are still side by side and the ruler did not move. They did not resize when the browser became smaller.
+
+6.  The Divs switched sides of the pages. TestDiv2 is on the left and is between 1 and 310. TestDiv1 is on the Right and between 600 and 1200.
+
+7.  Test Div1 is cut off the page and is now spread through the top from 0 to 1200 It is too long for the page. Test div2 is on the right underneath div 1 going from 900 to 1200.
+
+8.  They moved towards the center of the page with testDiv2 on the right from 330 to 760. And testDiv1 goes from 780 to 1200.
+
+9.  Now the divs move with the browser and resize accordingly. All information is displayed.
+
+10.
